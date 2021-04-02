@@ -1,0 +1,5 @@
+The number of months was 86
+The total amount of profits/losses equaled $38382578
+The greatest decrease in losses equaled $-2196167, and occured in Sep-2013
+The greatest increase in profits equaled $1926159, and occured in Feb-2012
+The average of profits/losses changes equaled $-2315.12
